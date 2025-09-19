@@ -37,3 +37,6 @@
 
 ## 2.0.0
 - Add null-safety
+
+## 2.0.1
+- Updated pointycastle to allow 4.0.0.
